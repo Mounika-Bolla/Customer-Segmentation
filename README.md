@@ -100,8 +100,6 @@ The analysis provides:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Mall Customer Segmentation Dataset
@@ -109,5 +107,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Clustering algorithm research papers
 
 ## Contact
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-Project Link: [https://github.com/yourusername/customer-segmentation](https://github.com/yourusername/customer-segmentation)
+Your Name - [monicabolla2000@gmail.com](mailto:monicabolla2000@gmail.com)
+Project Link: [https://github.com/Mounika-Bolla/Customer-Segmentation.git](https://github.com/Mounika-Bolla/Customer-Segmentation.git)
